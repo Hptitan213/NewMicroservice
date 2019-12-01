@@ -1,5 +1,5 @@
 # Cloud DevOps, Scaling Microservices
- 
+
 This repository contains material related to a Udacity course on scaling microservices with Kubernetes. In here, you'll find starting code for a project, in which you can containerize and deploy a machine learning srevice using Kubernetes.
 
 ## Tutorials
@@ -15,7 +15,7 @@ This repository contains material related to a Udacity course on scaling microse
 * [Operationalize a Machine Learning Microservice API](https://github.com/udacity/DevOps_Microservices/tree/master/project-ml-microservice-kubernetes): Deploy a containerized, machine learning application using Kubernetes.
 
 ---
-
+ 
 To run any project code, you'll have to set up a virtual environment with the project dependencies. All of the following instructions are to be completed via a terminal/command line prompt. 
 
 ## 1. Create and Activate an Environment
