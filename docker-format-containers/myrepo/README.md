@@ -29,5 +29,5 @@ jupyter notebook notebook.ipynb
 ```
 python -m pytest --nbval notebook.ipynb
 ```
-
+ 
 ## Further Information on this topic can be found here:  https://github.com/noahgift/functional_intro_to_python
